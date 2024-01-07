@@ -1,7 +1,7 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=600&size=35&duration=3000&pause=1000&repeat=false&center=true&vCenter=true&color=808080&width=600&lines=Welcome, +stranger!" alt="Typing SVG" /></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=600&size=35&duration=3000&pause=1000&repeat=false&center=true&vCenter=true&color=808080&width=600&lines=Welcome, +stranger! 👋" alt="Typing SVG" /></div>
 <br style="border: 2px solid black;">
 
-**My name is David and I work as a software developer. My journey began when I was 16 years old and will continue until I pass away. 
+**My name is David and I work as a software developer. My journey began when I was 16 years old and will continue until I pass away or get bored. 
 *Currently enamored with AI and cybersecurity.***
 <hr style="border: 2px solid black;">
 
@@ -17,8 +17,8 @@
  
  ## 📚 GitHub Status
 <div align="center">
-  <img width="47%"  height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daviSR99&show_icons=true&include_all_commits=true&count_private=true&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
-  <img width="43%"  height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daviSR99&layout=compact&langs_count=20&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
+  <img width="48%"  height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daviSR99&show_icons=true&include_all_commits=true&count_private=true&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
+  <img width="48%"  height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daviSR99&layout=compact&langs_count=10&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
 </div>
 
 ## 💼 Skills
