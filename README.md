@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=600&size=35&duration=3000&pause=1000&repeat=false&center=true&vCenter=true&color=808080&width=600&lines=Welcome, +stranger! 👋" alt="Typing SVG" /></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=600&size=35&duration=2000&pause=1000&repeat=false&center=true&vCenter=true&color=Ffd700&width=600&lines=どうぞ上がってください！👋" alt="Typing SVG" /></div>
 <br style="border: 2px solid black;">
 
 **My name is David and I work as a software developer. My journey began when I was 16 years old and will continue until I pass away or get bored. 
@@ -9,8 +9,14 @@
 - I am more than just a programmer. I have experience working as a tourist guide for some years. **I can confidently say that I am fluent in English.**
 - I also taught English and math to communities with little access to resources.
 
+<div align="center">
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnViMjJmdXY4ZGZ6NGh1dDFqeWV3aGJmczdxZnV1NTc4cjI2N3o1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXnzBtyOexiTCVqRC/source.gif"/>
+</div>
+
+
+
 <hr style="border: 2px solid black;">
-<p align="center"><img src ="https://komarev.com/ghpvc/?username=daviSR99&style=for-the-badge&color=9B870C"/></p>
+<p align="center"><img src ="https://komarev.com/ghpvc/?username=daviSR99&style=for-the-badge&color=9B870C" /></p>
 
  <details closed>
 <Summary>About me 👈</Summary>
