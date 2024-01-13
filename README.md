@@ -10,7 +10,10 @@
 - I also taught English and math to communities with little access to resources.
 
 <div align="center">
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnViMjJmdXY4ZGZ6NGh1dDFqeWV3aGJmczdxZnV1NTc4cjI2N3o1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXnzBtyOexiTCVqRC/source.gif"/>
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnViMjJmdXY4ZGZ6NGh1dDFqeWV3aGJmczdxZnV1NTc4cjI2N3o1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zXnzBtyOexiTCVqRC/source.gif"
+  width="500px"
+  height="250px"
+  />
 </div>
 
 
