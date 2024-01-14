@@ -28,7 +28,7 @@
  
  ## 📚 GitHub Status
 <div align="center" style="vertical-align:top">
-  <img width="47%" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daviSR99&show_icons=true&include_all_commits=true&count_private=true&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
+  <img width="49%" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daviSR99&show_icons=true&include_all_commits=true&count_private=true&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
   <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daviSR99&layout=compact&langs_count=10&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
 </div>
 
