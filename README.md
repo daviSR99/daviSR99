@@ -8,12 +8,13 @@
   />
 </div>
 
-\
 &nbsp;
 
-**My name is David and I work as a software developer. My journey began when I was 16 years old and will continue until I pass away or get bored. 
-*Currently enamored with AI and cybersecurity.***
-<br style="border: 2px;">
+
+<div align="center">
+ <p>My name is David and I work as a software developer. My journey began when I was 16 years old and will continue until I pass away. </p>
+ <p><b>Currently enamorated with AI and cybersecurity</b></p>
+</div>
 
 - Nowadays, my currently stack includes the following tools and languages: ***Angular, React, Next.JS, JavaScript, TypeScript, Java, C#, SQL Server, and MySQL;***
 - I am more than just a programmer. I have experience working as a tourist guide for some years. **I can confidently say that I am fluent in English.**
@@ -32,7 +33,7 @@
 </div>
 
 ## 💼 Skills
-  <div style="display: inline_block">
+  <div style="display: inline_block" align="center">
   <img height = "50cm" align="center" alt="daviSR99-AngularJS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img height = "50cm" align="center" alt="daviSR99-htm5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img height = "50cm" align="center" alt="daviSR99-css"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -51,6 +52,7 @@
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=800&size=50&duration=2000&pause=1000&repeat=false&center=true&vCenter=true&color=Ffd700&width=600&lines=バイバイ!👋" alt="Typing SVG"/>
 </div>
+<br style="border: 2px;">
 
 <div align="center">
  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDh6NGhvNzZkYjMyc3RrcHBlaGl5cnI1ZGE5NGRmcDN6cHZ6empmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QQ53nSN7wmk2jfD215/source.gif"
