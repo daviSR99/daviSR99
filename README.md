@@ -1,8 +1,8 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=800&size=55&duration=3000&pause=1000&repeat=false&center=true&vCenter=true&color=Ffd700&width=600&lines=ようこそ!🤝" alt="Typing SVG" /></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=600&size=50&duration=3000&pause=1000&repeat=false&center=true&vCenter=true&color=Ffd700&width=600&lines=Welcome, stranger!🤝" alt="Typing SVG" /></div>
 <br style="border: 2px;">
 
 <div align="center">
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ3YTh1b3E2Yzdtdmt0cm5nOHVuY2YxY3dsZGgxZXlocDlrNHRtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9IpvhcjJr34PlQv8N7/source.gif"
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl5a2htbzMxYmFwMm9lenY1N3pwZmgwaWZlbG5tOXVuZ3N1aDR5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RjLhpZfuvAWef14JR5/source.gif"
   width="300px"
   height="200px"
   />
