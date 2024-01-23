@@ -50,7 +50,7 @@
 \
 &nbsp;
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=800&size=50&duration=2000&pause=1000&repeat=false&center=true&vCenter=true&color=Ffd700&width=600&lines=バイバイ!👋" alt="Typing SVG"/>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=800&size=50&duration=2000&pause=1000&repeat=false&center=true&vCenter=true&color=Ffd700&width=600&lines=See ya~!👋" alt="Typing SVG"/>
 </div>
 <br style="border: 2px;">
 
