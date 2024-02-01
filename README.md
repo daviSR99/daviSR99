@@ -12,10 +12,10 @@
 
 <div align="center">
  <p>My name is David and I work as a software developer. My journey began when I was 16 years old and will continue until I pass away. </p>
- <p><b>Currently enamorated with AI and cybersecurity</b></p>
+ <p><b>Currently a beta tester at pygmalion.chat 🤗</b></p>
 </div>
 
-- ⚙️ I am using those tools daily: `.angular`, `.next`, `.react`, `.js`, `.ts`, `.java`, `.c#`, `.sqlserver`, `.mySQL`.
+- 🛠️ I am using those tools daily: `.angular`, `.next`, `.react`, `.js`, `.ts`, `.java`, `.c#`, `.sqlserver`, `.mySQL`.
 - I am more than just a programmer. I have experience working as a tourist guide for some years. **I can confidently say that I am fluent in English.**
 - I also taught English and math to communities with little access to resources.
 
@@ -28,13 +28,15 @@
 <!-- START NEW SECTION -->
 <p align="center">
  <h2 align="center">My Github Stats</h2>
+</p>
 
+<!-- CREDITS TO https://github.com/HttpEduardo. I AM NOT THE CREATOR OF THIS SECTION -->
 |My github statistics|Most used languages|Streaks|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=daviSR99&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviSR99&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![daviSR99](https://github-readme-streak-stats.herokuapp.com/?user=daviSR99&theme=dark)
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=daviSR99&show_icons=true&hide_title=true&text_color=Ffd700&icon_color=FFA500&theme=gruvbox)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviSR99&show_icons=true&theme=gruvbox&text_color=Ffd700&hide_title=true)](https://github.com/Cyebukayire)|![daviSR99](https://github-readme-streak-stats.herokuapp.com/?user=daviSR99&theme=gruvbox)
 
- 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+<!-- END SECTION -->
 
 ## 💼 Skills
   <div style="display: inline_block" align="center">
