@@ -16,7 +16,7 @@
  <p><b>Currently enamorated with AI and cybersecurity</b></p>
 </div>
 
-- ⚙️ I am using those tools daily: `.angular`, `.react`, `.js`, `.ts`, `.java`, `.c#`, `.sqlserver`, `.mySQL`.
+- ⚙️ I am using those tools daily: `.angular`, `.next`, `.react`, `.js`, `.ts`, `.java`, `.c#`, `.sqlserver`, `.mySQL`.
 - I am more than just a programmer. I have experience working as a tourist guide for some years. **I can confidently say that I am fluent in English.**
 - I also taught English and math to communities with little access to resources.
 
