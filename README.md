@@ -2,14 +2,13 @@
 <br style="border: 2px;">
 
 <div align="center">
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl5a2htbzMxYmFwMm9lenY1N3pwZmgwaWZlbG5tOXVuZ3N1aDR5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RjLhpZfuvAWef14JR5/source.gif"
-  width="300px"
-  height="200px"
+ <img src="https://image.myanimelist.net/ui/gDEE1QGHMmMAOJRb4Q-ehqF7ckhcVAUyzogC6VP5vLR4ILIAHotU84aGAV_ihyEjUE7hToGq7Qf4W4nsPugrgp-44K87QbbXDRU6qzb7SDw1u8zz8srGrKBe5Yk39GZH"
+  width="400px"
+  height="400px"
   />
 </div>
 
 &nbsp;
-
 
 <div align="center">
  <p>My name is David and I work as a software developer. My journey began when I was 16 years old and will continue until I pass away. </p>
@@ -26,11 +25,16 @@
  <details closed>
 <Summary>About me👈</Summary>
  
- ## 📚 GitHub Status
-<div align="center" style="vertical-align:top">
-  <img width="49%" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daviSR99&show_icons=true&include_all_commits=true&count_private=true&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
-  <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daviSR99&layout=compact&langs_count=10&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
-</div>
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+
+|My github statistics|Most used languages|Streaks|
+|-|-|-|
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=daviSR99&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviSR99&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![daviSR99](https://github-readme-streak-stats.herokuapp.com/?user=daviSR99&theme=dark)
+
+ 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 ## 💼 Skills
   <div style="display: inline_block" align="center">
