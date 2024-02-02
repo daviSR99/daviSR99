@@ -30,13 +30,9 @@
  <h1 align="center">My Github Stats 💻</h1>
 </p>
 
-![Peace's github stats](https://github-readme-stats.vercel.app/api?username=daviSR99&show_icons=true&text_color=Ffd700&icon_color=FFA500&theme=gruvbox)
-![daviSR99](https://github-readme-streak-stats.herokuapp.com/?user=daviSR99&theme=gruvbox)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviSR99&show_icons=true&theme=gruvbox&text_color=Ffd700" alt="Top Languages"/>
-</p>
+|My github statistics|Most used languages|Streaks|
+|-|-|-|
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=daviSR99&show_icons=true&theme=gruvbox&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviSR99&show_icons=true&theme=gruvbox&hide_title=true)](https://github.com/Cyebukayire)|![daviSR99](https://github-readme-streak-stats.herokuapp.com/?user=daviSR99&theme=gruvbox)
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
