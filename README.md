@@ -10,8 +10,8 @@
 
 &nbsp;
 
-<div align="center">
- <h3>My name is David and I work as a software developer. My journey began when I was 16 years old and will continue until I pass away. </h3>
+ <div align="center">
+ <h3>My name is David and I work as a software developer. My journey began when I was 16 years old and will continue until I pass away (๑‾̀◡‾́)✨.</h3>
  <h3><b>Currently a beta tester at pygmalion.chat 🤗</b><h3>
 </div>
 
@@ -27,13 +27,17 @@
  
 <!-- START NEW SECTION -->
 <p align="center">
- <h2 align="center">My Github Stats</h2>
+ <h1 align="center">My Github Stats 💻</h1>
 </p>
 
-<!-- CREDITS TO https://github.com/HttpEduardo. I AM NOT THE CREATOR OF THIS SECTION -->
-|My github statistics|Most used languages|Streaks|
-|-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=daviSR99&show_icons=true&hide_title=true&text_color=Ffd700&icon_color=FFA500&theme=gruvbox)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviSR99&show_icons=true&theme=gruvbox&text_color=Ffd700&hide_title=true)](https://github.com/Cyebukayire)|![daviSR99](https://github-readme-streak-stats.herokuapp.com/?user=daviSR99&theme=gruvbox)
+![Peace's github stats](https://github-readme-stats.vercel.app/api?username=daviSR99&show_icons=true&text_color=Ffd700&icon_color=FFA500&theme=gruvbox)
+![daviSR99](https://github-readme-streak-stats.herokuapp.com/?user=daviSR99&theme=gruvbox)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviSR99&show_icons=true&theme=gruvbox&text_color=Ffd700" alt="Top Languages"/>
+</p>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END SECTION -->
