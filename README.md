@@ -3,8 +3,8 @@
 
 <div align="center">
  <img src="https://image.myanimelist.net/ui/gDEE1QGHMmMAOJRb4Q-ehqF7ckhcVAUyzogC6VP5vLR4ILIAHotU84aGAV_ihyEjUE7hToGq7Qf4W4nsPugrgp-44K87QbbXDRU6qzb7SDw1u8zz8srGrKBe5Yk39GZH"
-  width="400px"
-  height="400px"
+  width="350px"
+  height="350px"
   />
 </div>
 
