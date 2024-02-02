@@ -11,13 +11,13 @@
 &nbsp;
 
 <div align="center">
- <p>My name is David and I work as a software developer. My journey began when I was 16 years old and will continue until I pass away. </p>
- <p><b>Currently a beta tester at pygmalion.chat 🤗</b></p>
+ <h3>My name is David and I work as a software developer. My journey began when I was 16 years old and will continue until I pass away. </h3>
+ <h3><b>Currently a beta tester at pygmalion.chat 🤗</b><h3>
 </div>
 
-- 🛠️ I am using those tools daily: `.angular`, `.next`, `.react`, `.js`, `.ts`, `.java`, `.c#`, `.sqlserver`, `.mySQL`.
-- I am more than just a programmer. I have experience working as a tourist guide for some years. **I can confidently say that I am fluent in English.**
-- I also taught English and math to communities with little access to resources.
+- ### 🛠️ I am using those tools daily: `.angular`, `.next`, `.react`, `.js`, `.ts`, `.java`, `.c#`, `.sqlserver`, `.mySQL`.
+- ### I am more than just a programmer. I have experience working as a tourist guide for some years. **I can confidently say that I am fluent in English.**
+- ### I also taught English and math to communities with little access to resources.
 
 <br style="border: 2px; ">
 <p align="center"><img src ="https://komarev.com/ghpvc/?username=daviSR99&style=for-the-badge&color=9B870C" /></p>
