@@ -1,7 +1,7 @@
 #  🤝 Hi there!
 
 My name is David and I work as a software developer. My journey began when I was 16 years old and will continue until I pass away.</br>
-I am currently working as a freelancer. Really passionate about AI and cybersecurity. Currently a beta tester at pygmalion.chat 🧙🏻 </br>
+I am currently working as a freelancer. Really passionate about AI and cybersecurity.
 
 #  🚀 Expertise
 
